@@ -19,7 +19,7 @@ The dataset contains:
 
 ## Output
 
-![Website Traffic Analysis](Website.png)
+![Website Traffic Analysis](Website_Traffic_Analysis.png)
 
 ## Features
 - Interactive line chart
